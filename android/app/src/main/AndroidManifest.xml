@@ -2,9 +2,9 @@
     <!-- 这一行代码就是上帝视角，允许你的 App 看到手机里所有的软件 -->
     <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
     <application
-        android:label="flutter_application_1"
+        android:label="toolgoo"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
